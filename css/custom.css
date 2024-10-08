@@ -345,6 +345,7 @@ body {
     padding-left: 16px;
     border: none !important;
     margin-bottom: 2rem;
+    color: #ffffff;
 }
 
 .contact-form .form-text-area {
@@ -353,6 +354,7 @@ body {
     padding-left: 16px;
     border: none !important;
     margin-bottom: 2rem;
+    color: #ffffff;
 }
 
 .contact-form .form-control::placeholder {
@@ -381,4 +383,9 @@ body {
     color: #aeb4b9;
     font-size: 14px;
     text-align: center;
+}
+
+.thankyou-img-style {
+    max-height: 400px;
+    max-width: 400px;
 }
